@@ -2,12 +2,13 @@
 
 > Transform your exported json trello data into a human readable format!
 
+
 *Welcome PRs!*
 
 
 ## Download
 
-Just clone or download this repo and open *lib/trello-json-parser.py* in your favorite text editor.
+Just clone or download this repo and open *trello-json-parser.py* in your favorite text editor.
 
 
 ## Usage
